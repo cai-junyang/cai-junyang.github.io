@@ -22,5 +22,6 @@ Hello, I am Cai Junyang. I come from Jingzhou, Hubei Province. I graduated from 
 * The 19th China post-graduate mathematical contest in modeling - The third prize (2022)
 * National scholarship for Postgraduates (2022)
 * The 18th China post-graduate mathematical contest in modeling - The second prize (2021)
+* The 2nd IKCEST "The Belt and Road" International Big Data Competition and the 6th Baidu & Xi'an Jiaotong University Big Data Competition - International Excellence Award
 * The 10th blue bridge cup Java program design competition - The second prize of group A in Heilongjiang division (2019)
 * The 11th Chinese mathematics competitions (preliminary contest) - The first prize in mathematics major group A (2019) 

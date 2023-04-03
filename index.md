@@ -1,4 +1,4 @@
-# cai junyang
+# Cai Junyang
 
 Hello, I am Cai Junyang. I come from Jingzhou, Hubei Province. I graduated from Harbin University of Science and Technology with a bachelor degree in **statistics** in 2021. Now I am a second-year master student majoring in **management science and engineering** at the School of Management, Shanghai University. I expect to receive my Master's degree in Management in March 2024. My research interest is to use operational research, statistics and other mathematical methods to solve some practical problems in life. Speaking of my life interests, to be honest, I really like watching some sci-fi thrillers, such as *Prometheus*, *Alien: Covenant*, *Final Destination* and so on.
 

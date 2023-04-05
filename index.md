@@ -8,6 +8,8 @@ Hello, I am Cai Junyang. I come from Jingzhou, Hubei Province. I graduated from 
 
 > My Ali Cloud Tianchi home page: Click [here](https://tianchi.aliyun.com/home/science/scienceDetail?spm=5176.12281920.0.0.52633f74RgzNVb&userId=1095279438920) 
 
+> Github: Click [here](https://github.com/cai-junyang/)
+
 > Linkedin: Click [here](https://www.linkedin.cn/incareer/in/ACoAAEF0dUQBwTC65Q68MwvOWq7w8lqlIF4pWSY)
 
 > Skills: Mathematical modeling; Data analysis; Python; Latex; Markdown (In addition, I have mastered a little Matlab. I used to learn Java and C++, but I currently have forgotten almost all of them.)

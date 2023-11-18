@@ -24,7 +24,7 @@ Click [here](https://github.com/cai-junyang/cai-junyang.github.io/raw/main/cjy-c
 * How many asymptomatic cases were unconfirmed in the US COVID-19 pandemic? The evidence from a serological survey. *Chaos, Solitons & Fractals*, 2022, 164(112630). Available at: Click [here](https://www.sciencedirect.com/science/article/pii/S0960077922008116)
 
 ### Working papers
-* A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives. (*European Journal of Operational Research*, Reject and resubmit) Available at: Click [here](https://ssrn.com/abstract=4289504)
+* A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives. (*European Journal of Operational Research*, R&R) Available at: Click [here](https://ssrn.com/abstract=4289504)
 
 ### Awards
 * The 19th China post-graduate mathematical contest in modeling - The third prize (2022)

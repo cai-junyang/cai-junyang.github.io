@@ -4,6 +4,8 @@ last update: Nov 18, 2023
 
 Hello, I am Cai Junyang. I come from Jingzhou, Hubei Province. I graduated from Harbin University of Science and Technology with a bachelor degree in **statistics** in 2021. Now I am a third-year master student majoring in **management science and engineering** at the School of Management, Shanghai University. I expect to receive my Master's degree in Management in April 2024. My research interest is to use operational research, statistics and other mathematical methods to solve some practical problems. Speaking of my life interests, to be honest, I like watching some sci-fi thrillers, such as *Prometheus*, *Alien: Covenant*, *Final Destination* and so on.
 
+Now I am an intern in an e-commerce company (Baozun), mainly conducting e-commerce data analysis (mainly using Python and Tableau).
+
 Click [here](https://github.com/cai-junyang/cai-junyang.github.io/raw/main/cjy-cv.pdf) to download my English CV.
 
 > E-mail: <cjy0502@shu.edu.cn> 
@@ -16,7 +18,7 @@ Click [here](https://github.com/cai-junyang/cai-junyang.github.io/raw/main/cjy-c
 
 > Linkedin: Click [here](https://www.linkedin.cn/incareer/in/ACoAAEF0dUQBwTC65Q68MwvOWq7w8lqlIF4pWSY)
 
-> Skills: Mathematical modeling; Data analysis; Python; Latex; Markdown (In addition, I have mastered a little Matlab. I used to learn Java and C++, but I currently have forgotten almost all of them.)
+> Skills: Mathematical modeling; Data analysis; Python; Latex; Markdown; Tableau; SPSS (In addition, I have mastered a little Matlab. I used to learn Java, R, SQL and C++.)
 
 ### Publications
 * How many asymptomatic cases were unconfirmed in the US COVID-19 pandemic? The evidence from a serological survey. *Chaos, Solitons & Fractals*, 2022, 164(112630). Available at: Click [here](https://www.sciencedirect.com/science/article/pii/S0960077922008116)

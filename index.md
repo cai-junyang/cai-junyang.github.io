@@ -1,10 +1,12 @@
-# Cai Junyang
+# Junyang Cai | 君洋 蔡
 
-last update: Nov 18, 2023
+last update: Nov 30, 2023
 
-Hello, I am Cai Junyang. I come from Jingzhou, Hubei Province. I graduated from Harbin University of Science and Technology with a bachelor degree in **statistics** in 2021. Now I am a third-year master student majoring in **management science and engineering** at the School of Management, Shanghai University. I expect to receive my Master's degree in Management in April 2024. My research interest is to use operational research, statistics and other mathematical methods to solve some practical problems. Speaking of my life interests, to be honest, I like watching some sci-fi thrillers, such as *Prometheus*, *Alien: Covenant*, *Final Destination* and so on.
+Hello, I am Junyang Cai, born in May 2000. I come from Jingzhou, Hubei Province. I graduated from Harbin University of Science and Technology with a bachelor degree in **statistics** in 2021. Now I am a third-year master student majoring in **management science and engineering** at the School of Management, Shanghai University. I expect to receive my Master's degree in Management in April 2024. My research interest is to use operational research, statistics and other mathematical methods to solve some practical problems. 
 
-Now I am an intern in an e-commerce company (Baozun), mainly conducting e-commerce data analysis (mainly using Python and Tableau).
+Speaking of my life interests, to be honest, I like watching some sci-fi thrillers, such as *Prometheus*, *Alien: Covenant*, *Final Destination* and so on.
+
+Now I am an intern in an e-commerce company (Baozun), mainly conducting e-commerce data analysis by Python and Tableau.
 
 Click [here](https://github.com/cai-junyang/cai-junyang.github.io/raw/main/cjy-cv.pdf) to download my English CV.
 
@@ -21,7 +23,7 @@ Click [here](https://github.com/cai-junyang/cai-junyang.github.io/raw/main/cjy-c
 > Skills: Mathematical modeling; Data analysis; Python; Latex; Markdown; Tableau; SPSS (In addition, I have mastered a little Matlab. I used to learn Java, R, SQL and C++.)
 
 ### Publications
-* How many asymptomatic cases were unconfirmed in the US COVID-19 pandemic? The evidence from a serological survey. *Chaos, Solitons & Fractals*, 2022, 164(112630). Available at: Click [here](https://www.sciencedirect.com/science/article/pii/S0960077922008116)
+* How many asymptomatic cases were unconfirmed in the US COVID-19 pandemic? The evidence from a serological survey. *Chaos, Solitons & Fractals*, 2022, 164: 112630. Available at: Click [here](https://www.sciencedirect.com/science/article/pii/S0960077922008116)
 
 ### Working papers
 * A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives. (*European Journal of Operational Research*, R&R) Available at: Click [here](https://ssrn.com/abstract=4289504)

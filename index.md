@@ -1,6 +1,6 @@
-Last update: August 20, 2024
-
 [TOC]
+
+Last update: August 20, 2024
 
 ## CV
 Click [here](https://raw.githubusercontent.com/cai-junyang/cai-junyang.github.io/main/cjy-cv.pdf) to download my CV. 

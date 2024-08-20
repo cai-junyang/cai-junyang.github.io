@@ -1,5 +1,3 @@
-[TOC]
-
 Last update: August 20, 2024
 
 ## CV

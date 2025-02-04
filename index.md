@@ -26,6 +26,6 @@ To address the limitations of AI predictions, we develop a multi-server queuing 
 
 - **Cai J**, Xu R, Zhou J\*, Gu H. Dynamic-spread assessment and kink detection in the early mpox outbreak. *Applied Mathematical Modelling*, forthcoming.
 
-- **Cai J**, Zhou J\*. How many asymptomatic cases were unconfirmed in the US COVID-19 pandemic? The evidence from a serological survey. *Chaos, Solitons \& Fractals*, 2022, 164: 112630.	
+- **Cai J**, Zhou J\*. How many asymptomatic cases were unconfirmed in the US COVID-19 pandemic? The evidence from a serological survey. *Chaos, Solitons and Fractals*, 2022, 164: 112630.	
 
 - Li H, **Cai J**\*. Arithmetic operations and expected values of regular interval type-2 fuzzy variables. *Symmetry-Basel*, 2021, 13(1): 2196.

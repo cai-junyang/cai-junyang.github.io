@@ -1,5 +1,7 @@
 Last update: February 17, 2025
 
+Contact me: junyang.cai@campus.technion.ac.il
+
 ## CV
 Click [here](https://raw.githubusercontent.com/cai-junyang/cai-junyang.github.io/main/cjy-cv.pdf) to download my CV. 
 
@@ -9,7 +11,7 @@ My name is Junyang Cai, and I am currently a doctoral student in the Department 
 ## News
 - My paper *A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives* won the Outstanding Paper Award of the 2024 Doctoral Student Forum of Antai School of Economics and Management, Shanghai Jiao Tong University on July 11, 2024. The work of this paper corresponds to my master's thesis *Greater disaster triggered by inequity: Equitable vaccine distribution under humanitarian perspectives*.
 
-## Working Paper / My Latest Work
+## Working Paper
 
 - **[Does expanding accessibility to naloxone actually reduce deaths?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4921020)** (*Production and Operations Management*,  Major Revision)
    - <small><u>Abstract</u>: The widespread prevalence of opioids has compelled governments to introduce policies specifically targeted at reducing overdose-related deaths. Among the most direct measures is the expansion of access to naloxone, an opioid antagonist that effectively counteracts overdose-induced respiratory depression, thereby saving lives and enabling addicts to obtain it more readily. However, some critics argue that increasing naloxone accessibility may inadvertently contribute to a higher likelihood of opioid abuse. To gain a deeper understanding of the performance of this policy, this paper develops a simple mathematical model to analyze the impact of naloxone accessibility on the opioid crisis and the subsequent number of opioid-related deaths. Our analysis underscores that the effects of enhancing naloxone access are contingent upon various factors and are not uniformly advantageous. Notably, in certain scenarios, a modest improvement in accessibility, if not substantial, may paradoxically lead to an increase in overdose-related fatalities. Despite these complexities, we maintain that governments must remain steadfastly committed to enhancing naloxone accessibility, recognizing its pivotal role in reducing overdose-related deaths in specific instances. To be precise, governments confront a difficult dilemma: either strictly prohibit the use of naloxone or ensure its complete accessibility to all addicts, with the ultimate goal of minimizing deaths. Furthermore, our extended model considers the potential moral hazards associated with naloxone use, and our analysis indicates that this phenomenon does not invariably undermine the long-term management of the opioid epidemic.</small>

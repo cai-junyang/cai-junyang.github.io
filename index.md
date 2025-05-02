@@ -26,7 +26,7 @@ Lastly, we offer two interaction-based extensions inspired by epidemiological mo
 '\*' means the corresponding author.
 
 - Zhou J, **Cai J\***, Pantelous A, Li Z, Li M. A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives. *European Journal of Operational Research*, forthcoming.
-  - The Outstanding Paper Award of the 2024 Doctoral Student Forum of Antai School of Economics and Management, Shanghai Jiao Tong University
+  - The Outstanding Paper Award of the 2024 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University
 
 - **Cai J\***, Zychlinski N. When AI is not enough: Reducing diagnostic errors with radiologist oversight. *Service Science*, forthcoming.
 

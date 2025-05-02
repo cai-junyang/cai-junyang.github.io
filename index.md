@@ -1,4 +1,4 @@
-Last update: February 26, 2025
+Last update: May 3, 2025
 
 Contact me: junyang.cai@campus.technion.ac.il
 
@@ -22,13 +22,11 @@ We find that full naloxone accessibility is optimal either when priority is give
 When moral hazard is significant -- where increased naloxone accessibility may unintentionally encourage riskier opioid use among individuals with OUD -- expanding access can paradoxically result in higher overdose mortality, even as it reduces the incidence of new OUD cases. This underscores the profound impact of moral hazard on optimal naloxone accessibility policies, with the solution structure completely reversing under its influence. Policymakers must carefully navigate this dynamic to achieve a balance between accessibility and the associated risks.
 Lastly, we offer two interaction-based extensions inspired by epidemiological models, which account for social dynamics between susceptible individuals and those with OUD. Despite the increased analytical complexity induced by these interactions, we identified common solution properties, such as a bang-bang structure and the reverse effect of moral hazard on the optimal solution structure.</small>
 
-- **[A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4289504)** (*European Journal of Operational Research*, Major Revision)
-  - The Outstanding Paper Award of the 2024 Doctoral Student Forum of Antai School of Economics and Management, Shanghai Jiao Tong University
-  - <small><u>Abstract</u>: This paper is motivated by the occurrence of vaccine nationalism in the setting of pandemics. Certain high-income countries (HICs) aggressively accumulated vaccinations while showing little concern for the vaccination challenges faced by low- and middle- income countries. This disparity fosters the proliferation and mutation of viruses, thus risking the global population's health and welfare. Hence, we create a data-driven framework to tackle this humanitarian problem by facilitating the provision of vaccines. The framework comprises of two models: a network model named multi-strain Susceptible-Vaccinated-Infected-Removed-Susceptible and a vaccine distribution model with equitable constraints. The latter also encompasses the diverse uncertainty associated with vaccination hesitancy in different countries, in order to avoid potential wastage of resources. The vaccine distribution from our framework is based on greedy thought, thus enabling decision-makers to actively engage in the real-time vaccine allocation process. When the suggested framework is applied to the scenario of the COVID-19 pandemic, the simulation results indicate that fair distributions could accelerate the end of the pandemic. Additional scenarios, such as equitable levels and traveling intensity, are also examined in the sensitivity analysis. The progression of the epidemic under vaccine nationalism is moreover simulated to highlight its harmfulness and validate the efficacy of our framework. We demonstrate that the inequitable advantage experienced by HICs is temporary, as HICs are bound to suffer from virus variants in due course when vaccinations become less efficacious against them.</small>
-
 ## Published Papers
+- Zhou J, **Cai J\***, Pantelous A, Li Z, Li M. A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives. *European Journal of Operational Research*, forthcoming.
+  - The Outstanding Paper Award of the 2024 Doctoral Student Forum of Antai School of Economics and Management, Shanghai Jiao Tong University
 
-- **Cai J**, Zychlinski N. When AI is not enough: Reducing diagnostic errors with radiologist oversight. *Service Science*, forthcoming.
+- **Cai J\***, Zychlinski N. When AI is not enough: Reducing diagnostic errors with radiologist oversight. *Service Science*, forthcoming.
 
 - **Cai J**, Xu R, Zhou J\*, Gu H. Dynamic-spread assessment and kink detection in the early mpox outbreak. *Applied Mathematical Modelling*, 2025, 143:115996.
 

@@ -23,6 +23,8 @@ When moral hazard is significant -- where increased naloxone accessibility may u
 Lastly, we offer two interaction-based extensions inspired by epidemiological models, which account for social dynamics between susceptible individuals and those with OUD. Despite the increased analytical complexity induced by these interactions, we identified common solution properties, such as a bang-bang structure and the reverse effect of moral hazard on the optimal solution structure.</small>
 
 ## Published Papers
+'\*' means the corresponding author.
+
 - Zhou J, **Cai J\***, Pantelous A, Li Z, Li M. A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives. *European Journal of Operational Research*, forthcoming.
   - The Outstanding Paper Award of the 2024 Doctoral Student Forum of Antai School of Economics and Management, Shanghai Jiao Tong University
 

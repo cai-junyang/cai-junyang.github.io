@@ -1,3 +1,5 @@
+<img src="https://github.com/cai-junyang/cai-junyang.github.io/blob/main/kapibala.png" alt="kapibala" width="100">
+
 Last update: May 3, 2025
 
 Contact me: junyang.cai@campus.technion.ac.il

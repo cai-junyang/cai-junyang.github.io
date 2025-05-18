@@ -6,11 +6,11 @@ Contact me: junyang.cai@campus.technion.ac.il
 
 Google Scholar: Click [here](https://scholar.google.com/citations?hl=zh-CN&user=01RbBJYAAAAJ)
 
-- [CV](##CV)
-- [Brief Introduction](##Brief-Introduction)
-- [News](##News)
-- [Working Papers](##Working-Papers)
-- [Published Papers](##Published-Papers)
+- [CV](##cv)
+- [Brief Introduction](##brief-introduction)
+- [News](##news)
+- [Working Papers](##working-papers)
+- [Published Papers](##published-papers)
 
 ## CV
 Click [here](https://raw.githubusercontent.com/cai-junyang/cai-junyang.github.io/main/cjy-cv.pdf) to download my CV. 

@@ -25,7 +25,7 @@ My name is Junyang Cai, and I am currently a doctoral student in the Department 
 
 - **[Expanding Naloxone Accessibility: A Lifesaver or a Risky Setback?](https://noazy.net.technion.ac.il/files/2025/02/Expanding-Naloxone-Accessibility_Feb2025.pdf)** (*Production and Operations Management*,  Major Revision)
    - <small>Oral presentation, 2025 ORSIS Annual Meeting, Tel-Aviv, May 6, 2025</small>
-   - <small>Poster exhibition, Faculty Research Day, May 14, 2025</small>
+   - <small>Poster exhibition, Faculty Research Day, Technion, May 14, 2025</small>
    - <small><u>Abstract</u>: The widespread prevalence of opioids has compelled governments to introduce policies specifically targeted at reducing overdose-related deaths, with naloxone accessibility being one of the most prominent interventions. Naloxone, an opioid antagonist, is highly effective in reversing the effects of overdose, yet its expanded availability raises complex trade-offs, including concerns about moral hazard and increased opioid misuse. 
 We develop a dynamic compartmental model to examine the effects of naloxone accessibility on the opioid epidemic, capturing transitions between susceptible individuals and those with opioid use disorder (OUD). Using this model, we analyze an optimization problem to determine the optimal naloxone accessibility level, balancing the reduction of overdose mortality against the potential increase in new OUD cases.
 We find that full naloxone accessibility is optimal either when priority is given to minimizing new OUD cases and naloxone effectiveness is smaller than the moral hazard or when priority is given to minimizing overdose mortality and naloxone effectiveness exceeds the moral hazard. In the complementary cases, no naloxone accessibility is optimal.
@@ -36,7 +36,7 @@ Lastly, we offer two interaction-based extensions inspired by epidemiological mo
 '\*' means the corresponding author.
 
 - Zhou J, **Cai J\***, Pantelous A, Li Z, Li M. A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives. *European Journal of Operational Research*, forthcoming.
-  - The Outstanding Paper Award of the 2024 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University
+  - Winner of the 2024 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University, July 11, 2024
 
 - **Cai J\***, Zychlinski N. When AI is not enough: Reducing diagnostic errors with radiologist oversight. *Service Science*, forthcoming.
 

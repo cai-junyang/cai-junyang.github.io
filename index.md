@@ -1,4 +1,4 @@
-<img src="https://github.com/cai-junyang/cai-junyang.github.io/blob/main/kapibala.png" alt="kapibala" width="100">
+<img src="kapibala.png" alt="kapibala" width="150">
 
 Last update: May 3, 2025
 

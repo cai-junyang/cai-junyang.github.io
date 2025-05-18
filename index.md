@@ -6,8 +6,6 @@ Contact me: junyang.cai@campus.technion.ac.il
 
 Google Scholar: Click [here](https://scholar.google.com/citations?hl=zh-CN&user=01RbBJYAAAAJ)
 
-## Contents
-
 - [CV](##CV)
 - [Brief Introduction](##Brief-Introduction)
 - [News](##News)

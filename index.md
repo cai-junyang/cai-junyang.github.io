@@ -10,7 +10,7 @@ Google Scholar: Click [here](https://scholar.google.com/citations?hl=zh-CN&user=
 
 - [CV](##CV)
 - [Brief Introduction](##Brief-Introduction)
-- [News](#News)
+- [News](##News)
 - [Working Papers](##Working-Papers)
 - [Published Papers](##Published-Papers)
 

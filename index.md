@@ -1,6 +1,6 @@
 <img src="kapibala.png" alt="kapibala" width="150">
 
-Last update: May 19, 2025
+Last update: May 26, 2025
 
 Contact me: junyang.cai@campus.technion.ac.il
 
@@ -38,10 +38,10 @@ Lastly, we offer two interaction-based extensions inspired by epidemiological mo
 - Zhou J, **Cai J\***, Pantelous A, Li Z, Li M. A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives. *European Journal of Operational Research*, forthcoming. [[link]](https://www.sciencedirect.com/science/article/pii/S0377221725003637)
   - <small>Winner of the 2024 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University, July 11, 2024</small>
 
-- **Cai J\***, Zychlinski N. When AI is not enough: Reducing diagnostic errors with radiologist oversight. *Service Science*, forthcoming.
+- **Cai J\***, Zychlinski N. When AI is not enough: Reducing diagnostic errors with radiologist oversight. *Service Science*, forthcoming. [[link]](https://pubsonline.informs.org/doi/10.1287/serv.2024.0234)
 
-- **Cai J**, Xu R, Zhou J\*, Gu H. Dynamic-spread assessment and kink detection in the early mpox outbreak. *Applied Mathematical Modelling*, 2025, 143:115996.
+- **Cai J**, Xu R, Zhou J\*, Gu H. Dynamic-spread assessment and kink detection in the early mpox outbreak. *Applied Mathematical Modelling*, 2025, 143:115996. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0307904X2500071X#:~:text=We%20analyze%20the%20mpox%20and%20COVID-19%20outbreaks%20in,decline%20phase%20earlier%20than%20COVID-19%2C%20despite%20weaker%20interventions.)
 
-- **Cai J**, Zhou J\*. How many asymptomatic cases were unconfirmed in the US COVID-19 pandemic? The evidence from a serological survey. *Chaos, Solitons and Fractals*, 2022, 164:112630.	
+- **Cai J**, Zhou J\*. How many asymptomatic cases were unconfirmed in the US COVID-19 pandemic? The evidence from a serological survey. *Chaos, Solitons and Fractals*, 2022, 164:112630. [[link]](https://www.sciencedirect.com/science/article/pii/S0960077922008116)
 
-- Li H, **Cai J**\*. Arithmetic operations and expected values of regular interval type-2 fuzzy variables. *Symmetry-Basel*, 2021, 13(1):2196.
+- Li H, **Cai J**\*. Arithmetic operations and expected values of regular interval type-2 fuzzy variables. *Symmetry-Basel*, 2021, 13(1):2196. [[link]](https://www.mdpi.com/2073-8994/13/11/2196)

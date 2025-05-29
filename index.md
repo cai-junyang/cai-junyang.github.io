@@ -4,11 +4,11 @@ Last update: May 26, 2025
 <tr>
 <td><img src="kapibala.png" alt="kapibala" width="150"></td>
 <td>
-<b>PhD Student, Faculty of Data and Decision Sciences at the *Technion*</b><br>
-Google Scholar: Click [here](https://scholar.google.com/citations?hl=zh-CN&user=01RbBJYAAAAJ)<br>
-CV: Click [here](https://raw.githubusercontent.com/cai-junyang/cai-junyang.github.io/main/cjy-cv.pdf)<br>
+<b>PhD Student</b><br>
+<a href="https://dds.technion.ac.il/">Faculty of Data and Decision Sciences</a> at the Technion<br>   
+Google Scholar: Click <a href="https://scholar.google.com/citations?hl=zh-CN&user=01RbBJYAAAAJ">here</a><br>
+CV: Click <a href="https://raw.githubusercontent.com/cai-junyang/cai-junyang.github.io/main/cjy-cv.pdf">here</a><br>
 Email: junyang.cai@campus.technion.ac.il<br>
-[Curriculum Vitae](http://www.columbia.edu/~cc3179)
 </td>
 </tr>
 </table>

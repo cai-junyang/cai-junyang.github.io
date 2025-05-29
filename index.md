@@ -1,19 +1,23 @@
-<img src="kapibala.png" alt="kapibala" width="150">
-
 Last update: May 26, 2025
 
-Contact me: junyang.cai@campus.technion.ac.il
+<table>
+<tr>
+<td><img src="kapibala.png" alt="kapibala" width="150"></td>
+<td>
+<b>PhD Student, Faculty of Data and Decision Sciences at the *Technion*</b><br>
+Google Scholar: Click [here](https://scholar.google.com/citations?hl=zh-CN&user=01RbBJYAAAAJ)<br>
+CV: Click [here](https://raw.githubusercontent.com/cai-junyang/cai-junyang.github.io/main/cjy-cv.pdf)<br>
+Email: junyang.cai@campus.technion.ac.il<br>
+[Curriculum Vitae](http://www.columbia.edu/~cc3179)
+</td>
+</tr>
+</table>
 
-Google Scholar: Click [here](https://scholar.google.com/citations?hl=zh-CN&user=01RbBJYAAAAJ)
-
-- [CV](#cv)
 - [Brief Introduction](#brief-introduction)
 - [News](#news)
 - [Working Papers](#working-papers)
 - [Published Papers](#published-papers)
 
-## CV
-Click [here](https://raw.githubusercontent.com/cai-junyang/cai-junyang.github.io/main/cjy-cv.pdf) to download my CV. 
 
 ## Brief Introduction
 My name is Junyang Cai, and I am currently a doctoral student in the Department of Data and Decision Sciences at the *Technion*. My advisor is Prof [Noa Zychlinski](https://noazy.net.technion.ac.il/). I obtained the Bachelor of Science degree from *Harbin University of Science and Technology* in 2021 and the Master of Management degree from *Shanghai University* in 2024. My research direction is operations management in healthcare.

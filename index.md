@@ -24,11 +24,14 @@ Email: junyang.cai@campus.technion.ac.il<br>
 My name is Junyang Cai, and I am currently a doctoral student in the Faculty of Data and Decision Sciences at the *Technion*. My advisor is Prof [Noa Zychlinski](https://noazy.net.technion.ac.il/). I obtained the Bachelor of Science degree from *Harbin University of Science and Technology* in 2021 and the Master of Management degree from *Shanghai University* in 2024. My research direction is operations management in healthcare.
 
 ## News
-- My paper *A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives* won the Outstanding Paper Award of the 2024 Doctoral Student Forum of Antai School of Economics and Management, Shanghai Jiao Tong University on July 11, 2024. The work of this paper corresponds to my master's thesis *Greater disaster triggered by inequity: Equitable vaccine distribution under humanitarian perspectives*.
+- My paper *Expanding Naloxone Accessibility: A Lifesaver or a Risky Setback?* won the Excellent Paper Award of the 2025 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University on July 10, 2025.
+
+- My paper *A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives* won the Excellent Paper Award of the 2024 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University on July 11, 2024. The work of this paper corresponds to my master's thesis *Greater disaster triggered by inequity: Equitable vaccine distribution under humanitarian perspectives*.
 
 ## Working Papers
 
 - **[Expanding Naloxone Accessibility: A Lifesaver or a Risky Setback?](https://noazy.net.technion.ac.il/files/2025/02/Expanding-Naloxone-Accessibility_Feb2025.pdf)** (*Production and Operations Management*,  Major Revision)
+   - <small>Winner of the 2025 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University, July 10, 2025</small>
    - <small>Oral presentation, 2025 ORSIS Annual Meeting, Tel-Aviv, May 6, 2025</small>
    - <small>Poster exhibition, Faculty Research Day, Technion, May 14, 2025 | [Poster](https://raw.githubusercontent.com/cai-junyang/cai-junyang.github.io/main/poster.pdf)</small>
    - <small><u>Abstract</u>: The widespread prevalence of opioids has compelled governments to introduce policies specifically targeted at reducing overdose-related deaths, with naloxone accessibility being one of the most prominent interventions. Naloxone, an opioid antagonist, is highly effective in reversing the effects of overdose, yet its expanded availability raises complex trade-offs, including concerns about moral hazard and increased opioid misuse. 

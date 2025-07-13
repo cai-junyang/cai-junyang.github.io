@@ -7,7 +7,7 @@ Last update: July 10, 2025
 <b>PhD Student</b><br>
 <a href="https://dds.technion.ac.il/">Faculty of Data and Decision Sciences</a> at the Technion<br>   
 Google Scholar: Click <a href="https://scholar.google.com/citations?hl=zh-CN&user=01RbBJYAAAAJ">here</a><br>
-CV: Click <a href="https://raw.githubusercontent.com/cai-junyang/cai-junyang.github.io/main/cjy-cv.pdf">here</a><br>
+CV: Click <a href="https://raw.githubusercontent.com/cai-junyang/cai-junyang.github.io/main/CJY_CV.pdf">here</a><br>
 Web: <a href="https://cai-junyang.github.io/">https://cai-junyang.github.io/</a><br>
 Email: junyang.cai@campus.technion.ac.il<br>
 </td>

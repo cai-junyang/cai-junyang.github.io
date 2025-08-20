@@ -1,4 +1,4 @@
-Last update: July 10, 2025
+Last update: August 21, 2025
 
 <table>
 <tr>
@@ -24,6 +24,8 @@ Email: junyang.cai@campus.technion.ac.il<br>
 My name is Junyang Cai, and I am currently a doctoral student in the Faculty of Data and Decision Sciences at the *Technion*. My advisor is Prof [Noa Zychlinski](https://noazy.net.technion.ac.il/). I obtained the Bachelor of Science degree from *Harbin University of Science and Technology* in 2021 and the Master of Management degree from *Shanghai University* in 2024. My research direction is operations management in healthcare.
 
 ## News
+- I passed my doctoral qualifying examination on August 21, 2025.
+
 - My paper *Expanding Naloxone Accessibility: A Lifesaver or a Risky Setback?* won the Excellent Paper Award of the 2025 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University on July 10, 2025.
 
 - My paper *A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives* won the Excellent Paper Award of the 2024 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University on July 11, 2024. The work of this paper corresponds to my master's thesis *Greater disaster triggered by inequity: Equitable vaccine distribution under humanitarian perspectives*.
@@ -42,10 +44,10 @@ A calibrated case study based on U.S. data suggests that under current epidemic 
 ## Published Papers
 '\*' means the corresponding author.
 
-- Zhou J, **Cai J\***, Pantelous A, Li Z, Li M. [A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives](https://www.sciencedirect.com/science/article/pii/S0377221725003637). *European Journal of Operational Research*, forthcoming.
-  - <small>Winner of the 2024 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University, July 11, 2024</small>
-
 - **Cai J\***, Zychlinski N. [When AI is not enough: Reducing diagnostic errors with radiologist oversight](https://pubsonline.informs.org/doi/10.1287/serv.2024.0234). *Service Science*, forthcoming.
+
+- Zhou J, **Cai J\***, Pantelous A, Li Z, Li M. [A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives](https://www.sciencedirect.com/science/article/pii/S0377221725003637). *European Journal of Operational Research*, 2025, 327(2):655-672.
+  - <small>Winner of the 2024 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University, July 11, 2024</small>
 
 - **Cai J**, Xu R, Zhou J\*, Gu H. [Dynamic-spread assessment and kink detection in the early mpox outbreak](https://www.sciencedirect.com/science/article/abs/pii/S0307904X2500071X#:~:text=We%20analyze%20the%20mpox%20and%20COVID-19%20outbreaks%20in,decline%20phase%20earlier%20than%20COVID-19%2C%20despite%20weaker%20interventions.). *Applied Mathematical Modelling*, 2025, 143:115996. 
 

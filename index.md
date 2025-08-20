@@ -24,7 +24,7 @@ Email: junyang.cai@campus.technion.ac.il<br>
 My name is Junyang Cai, and I am currently a doctoral student in the Faculty of Data and Decision Sciences at the *Technion*. My advisor is Prof [Noa Zychlinski](https://noazy.net.technion.ac.il/). I obtained the Bachelor of Science degree from *Harbin University of Science and Technology* in 2021 and the Master of Management degree from *Shanghai University* in 2024. My research direction is operations management in healthcare.
 
 ## News
-- I passed my doctoral qualifying examination on August 21, 2025.
+- I passed my doctoral qualifying examination on August 20, 2025.
 
 - My paper *Expanding Naloxone Accessibility: A Lifesaver or a Risky Setback?* won the Excellent Paper Award of the 2025 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University on July 10, 2025.
 

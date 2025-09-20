@@ -1,4 +1,4 @@
-Last update: August 21, 2025
+Last update: September 20, 2025
 
 <table>
 <tr>
@@ -32,7 +32,7 @@ My name is Junyang Cai, and I am currently a doctoral student in the Faculty of 
 
 ## Working Papers
 
-- **[Expanding Naloxone Accessibility: A Lifesaver or a Risky Setback?](https://noazy.net.technion.ac.il/files/2025/07/Expanding-Naloxone-Accessibility_Jul2025.pdf)** (*Production and Operations Management*,  Major Revision)
+- **[Expanding Naloxone Accessibility: A Lifesaver or a Risky Setback?](https://noazy.net.technion.ac.il/files/2025/07/Expanding-Naloxone-Accessibility_Jul2025.pdf)** (*Production and Operations Management*,  Minor Revision)
    - <small>Winner of the 2025 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University, July 10, 2025</small>
    - <small>Oral presentation, 2025 ORSIS Annual Meeting, Tel-Aviv, May 6, 2025</small>
    - <small>Poster exhibition, Faculty Research Day, Technion, May 14, 2025 | [Poster](https://raw.githubusercontent.com/cai-junyang/cai-junyang.github.io/main/poster.pdf)</small>

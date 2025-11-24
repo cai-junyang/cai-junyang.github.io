@@ -1,4 +1,4 @@
-Last update: September 20, 2025
+Last update: November 24, 2025
 
 <table>
 <tr>
@@ -32,17 +32,14 @@ My name is Junyang Cai, and I am currently a doctoral student in the Faculty of 
 
 ## Working Papers
 
-- **[Expanding Naloxone Accessibility: A Lifesaver or a Risky Setback?](https://noazy.net.technion.ac.il/files/2025/07/Expanding-Naloxone-Accessibility_Jul2025.pdf)** (*Production and Operations Management*,  Minor Revision)
-   - <small>Winner of the 2025 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University, July 10, 2025</small>
-   - <small>Oral presentation, 2025 ORSIS Annual Meeting, Tel-Aviv, May 6, 2025</small>
-   - <small>Poster exhibition, Faculty Research Day, Technion, May 14, 2025 | [Poster](https://raw.githubusercontent.com/cai-junyang/cai-junyang.github.io/main/poster.pdf)</small>
-   - <small><u>Abstract</u>: The widespread prevalence of opioids has prompted governments to implement targeted interventions aimed at reducing overdose mortality, with naloxone accessibility emerging as one of the most prominent policies. Naloxone, a potent opioid antagonist, is highly effective in reversing overdoses, yet its expanded availability introduces complex trade-offs, particularly in the presence of moral hazard.
-We develop a dynamic compartmental model that captures transitions between susceptible individuals and those with opioid use disorder (OUD), allowing us to evaluate the impact of naloxone accessibility on overdose mortality and to derive the optimal accessibility policy. We show that full naloxone accessibility is optimal in the absence of moral hazard or when its effect is small. However, when moral hazard is significant—where greater access to naloxone encourages riskier opioid use—expanded accessibility can paradoxically increase overdose deaths.
-Extending the model to incorporate peer-driven contagion in opioid misuse, we find that the structure of the optimal policy remains robust, preserving the bang-bang nature and the reversal induced by moral hazard. Two additional insights emerge under this interaction-based model. First, in epidemics primarily driven by prescription-induced opioid use, full accessibility remains optimal. In contrast, when opioid use spreads socially—especially as the effectiveness of naloxone declines due to potent synthetic opioids like carfentanil—limited accessibility may become preferable. Second, the relationship between naloxone accessibility and overdose mortality may become non-monotonic, exhibiting an inverted U-shape in which moderate increases in accessibility can initially worsen outcomes.
-A calibrated case study based on U.S. data suggests that under current epidemic conditions, full accessibility remains optimal—a finding that aligns with existing regulatory policies. However, our results highlight that shifts in epidemic dynamics, such as increased opioid potency or heightened social contagion, may fundamentally alter this conclusion. These findings underscore the need for continuous reevaluation of naloxone distribution policies as the opioid crisis evolves.</small>
 
 ## Published Papers
 '\*' means the corresponding author.
+
+- **Cai J\***, Zychlinski N. Expanding Naloxone Accessibility: A Lifesaver or a Risky Setback? *Production and Operations Management*, forthcoming.
+   - <small>Winner of the 2025 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University, July 10, 2025</small>
+   - <small>2025 ORSIS Annual Meeting, Tel-Aviv, May 6, 2025</small>
+   - <small>Poster exhibition, Faculty Research Day, Technion, May 14, 2025 | [Poster](https://raw.githubusercontent.com/cai-junyang/cai-junyang.github.io/main/poster.pdf)</small>
 
 - **Cai J\***, Zychlinski N. [When AI is not enough: Reducing diagnostic errors with radiologist oversight](https://pubsonline.informs.org/doi/10.1287/serv.2024.0234). *Service Science*, forthcoming.
 

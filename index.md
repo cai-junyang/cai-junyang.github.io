@@ -36,7 +36,7 @@ My name is Junyang Cai, and I am currently a doctoral student in the Faculty of 
 ## Published Papers
 '\*' means the corresponding author.
 
-- **Cai J\***, Zychlinski N. [Expanding Naloxone Accessibility: A Lifesaver or a Risky Setback?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5797302). *Production and Operations Management*, forthcoming.
+- **Cai J\***, Zychlinski N. [Expanding naloxone accessibility: A lifesaver or a risky setback?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5797302). *Production and Operations Management*, forthcoming.
    - <small>Winner of the 2025 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University, July 10, 2025</small>
    - <small>2025 ORSIS Annual Meeting, Tel-Aviv, May 6, 2025</small>
    - <small>Poster exhibition, Faculty Research Day, Technion, May 14, 2025 | [Poster](https://raw.githubusercontent.com/cai-junyang/cai-junyang.github.io/main/poster.pdf)</small>

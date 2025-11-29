@@ -36,18 +36,18 @@ My name is Junyang Cai, and I am currently a doctoral student in the Faculty of 
 ## Published Papers
 '\*' means the corresponding author.
 
-- **Cai J\***, Zychlinski N. [Expanding naloxone accessibility: A lifesaver or a risky setback?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5797302). *Production and Operations Management*, forthcoming.
+- **Cai J\***, Zychlinski N. [Expanding naloxone accessibility: A lifesaver or a risky setback?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5797302). ***Production and Operations Management***, forthcoming.
    - <small>Winner of the 2025 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University, July 10, 2025</small>
    - <small>2025 ORSIS Annual Meeting, Tel-Aviv, May 6, 2025</small>
    - <small>Poster exhibition, Faculty Research Day, Technion, May 14, 2025 | [Poster](https://raw.githubusercontent.com/cai-junyang/cai-junyang.github.io/main/poster.pdf)</small>
 
-- **Cai J\***, Zychlinski N. [When AI is not enough: Reducing diagnostic errors with radiologist oversight](https://pubsonline.informs.org/doi/10.1287/serv.2024.0234). *Service Science*, forthcoming.
+- **Cai J\***, Zychlinski N. [When AI is not enough: Reducing diagnostic errors with radiologist oversight](https://pubsonline.informs.org/doi/10.1287/serv.2024.0234). ***Service Science***, forthcoming.
 
-- Zhou J, **Cai J\***, Pantelous A, Li Z, Li M. [A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives](https://www.sciencedirect.com/science/article/pii/S0377221725003637). *European Journal of Operational Research*, 2025, 327(2):655-672.
+- Zhou J, **Cai J\***, Pantelous A, Li Z, Li M. [A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives](https://www.sciencedirect.com/science/article/pii/S0377221725003637). ***European Journal of Operational Research***, 2025, 327(2):655-672.
   - <small>Winner of the 2024 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University, July 11, 2024</small>
 
-- **Cai J**, Xu R, Zhou J\*, Gu H. [Dynamic-spread assessment and kink detection in the early mpox outbreak](https://www.sciencedirect.com/science/article/abs/pii/S0307904X2500071X#:~:text=We%20analyze%20the%20mpox%20and%20COVID-19%20outbreaks%20in,decline%20phase%20earlier%20than%20COVID-19%2C%20despite%20weaker%20interventions.). *Applied Mathematical Modelling*, 2025, 143:115996. 
+- **Cai J**, Xu R, Zhou J\*, Gu H. [Dynamic-spread assessment and kink detection in the early mpox outbreak](https://www.sciencedirect.com/science/article/abs/pii/S0307904X2500071X#:~:text=We%20analyze%20the%20mpox%20and%20COVID-19%20outbreaks%20in,decline%20phase%20earlier%20than%20COVID-19%2C%20despite%20weaker%20interventions.). ***Applied Mathematical Modelling***, 2025, 143:115996. 
 
-- **Cai J**, Zhou J\*. [How many asymptomatic cases were unconfirmed in the US COVID-19 pandemic? The evidence from a serological survey](https://www.sciencedirect.com/science/article/pii/S0960077922008116). *Chaos, Solitons and Fractals*, 2022, 164:112630. 
+- **Cai J**, Zhou J\*. [How many asymptomatic cases were unconfirmed in the US COVID-19 pandemic? The evidence from a serological survey](https://www.sciencedirect.com/science/article/pii/S0960077922008116). ***Chaos, Solitons and Fractals***, 2022, 164:112630. 
 
-- Li H, **Cai J**\*. [Arithmetic operations and expected values of regular interval type-2 fuzzy variables](https://www.mdpi.com/2073-8994/13/11/2196). *Symmetry-Basel*, 2021, 13(1):2196.
+- Li H, **Cai J**\*. [Arithmetic operations and expected values of regular interval type-2 fuzzy variables](https://www.mdpi.com/2073-8994/13/11/2196). ***Symmetry-Basel***, 2021, 13(1):2196.

@@ -1,4 +1,4 @@
-Last update: November 24, 2025
+Last update: December 2, 2025
 
 <table>
 <tr>

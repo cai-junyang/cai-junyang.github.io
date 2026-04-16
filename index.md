@@ -36,6 +36,8 @@ My name is Junyang Cai, and I am currently a doctoral student in the Faculty of 
 ## Published Papers
 '\*' means the corresponding author.
 
+- **Cai J\***, Likvornik N.F, Zychlinski N. From waitlist to well-being: An analytical approach to AI-supported mental healthcare. ***IISE Transactions***, forthcoming.
+
 - **Cai J\***, Zychlinski N. [Expanding naloxone accessibility: A lifesaver or a risky setback?](https://journals.sagepub.com/doi/abs/10.1177/10591478251405962). ***Production and Operations Management***, forthcoming.
    - <small>Winner of the 2025 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University, July 10, 2025</small>
    - <small>2025 ORSIS Annual Meeting, Tel-Aviv, May 6, 2025</small>

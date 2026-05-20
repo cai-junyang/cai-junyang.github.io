@@ -38,12 +38,12 @@ My name is Junyang Cai, and I am currently a doctoral student in the Faculty of 
 
 - **Cai J\***, Likvornik N.F, Zychlinski N. From waitlist to well-being: An analytical approach to AI-supported mental healthcare. ***IISE Transactions***, forthcoming.
 
-- **Cai J\***, Zychlinski N. [Expanding naloxone accessibility: A lifesaver or a risky setback?](https://journals.sagepub.com/doi/abs/10.1177/10591478251405962). ***Production and Operations Management***, forthcoming.
+- **Cai J\***, Zychlinski N. [When AI is not enough: Reducing diagnostic errors with radiologist oversight](https://pubsonline.informs.org/doi/10.1287/serv.2024.0234). ***Service Science***, forthcoming.
+
+- **Cai J\***, Zychlinski N. [Expanding naloxone accessibility: A lifesaver or a risky setback?](https://journals.sagepub.com/doi/abs/10.1177/10591478251405962). ***Production and Operations Management***, 2026, 35(6):2376-2394.
    - <small>Winner of the 2025 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University, July 10, 2025</small>
    - <small>2025 ORSIS Annual Meeting, Tel-Aviv, May 6, 2025</small>
    - <small>Poster exhibition, Faculty Research Day, Technion, May 14, 2025 | [Poster](https://raw.githubusercontent.com/cai-junyang/cai-junyang.github.io/main/poster.pdf)</small>
-
-- **Cai J\***, Zychlinski N. [When AI is not enough: Reducing diagnostic errors with radiologist oversight](https://pubsonline.informs.org/doi/10.1287/serv.2024.0234). ***Service Science***, forthcoming.
 
 - Zhou J, **Cai J\***, Pantelous A, Li Z, Li M. [A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives](https://www.sciencedirect.com/science/article/pii/S0377221725003637). ***European Journal of Operational Research***, 2025, 327(2):655-672.
   - <small>Winner of the 2024 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University, July 11, 2024</small>

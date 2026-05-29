@@ -1,4 +1,4 @@
-Last update: April 16, 2026
+Last update: May 29, 2026
 
 <table>
 <tr>
@@ -36,7 +36,7 @@ My name is Junyang Cai, and I am currently a doctoral student in the Faculty of 
 ## Published Papers
 '\*' means the corresponding author.
 
-- **Cai J\***, Likvornik N.F, Zychlinski N. From waitlist to well-being: An analytical approach to AI-supported mental healthcare. ***IISE Transactions***, forthcoming.
+- **Cai J\***, Likvornik N.F, Zychlinski N. [From waitlist to well-being: An analytical approach to AI-supported mental healthcare](https://www.tandfonline.com/doi/full/10.1080/24725854.2026.2679528). ***IISE Transactions***, forthcoming.
 
 - **Cai J\***, Zychlinski N. [When AI is not enough: Reducing diagnostic errors with radiologist oversight](https://pubsonline.informs.org/doi/10.1287/serv.2024.0234). ***Service Science***, forthcoming.
 

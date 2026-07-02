@@ -30,9 +30,6 @@ My name is Junyang Cai, and I am currently a doctoral student in the Faculty of 
 
 - My paper *A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives* won the Excellent Paper Award of the 2024 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University on July 11, 2024. The work of this paper corresponds to my master's thesis *Greater disaster triggered by inequity: Equitable vaccine distribution under humanitarian perspectives*.
 
-## Working Papers
-
-
 ## Published Papers
 '\*' means the corresponding author.
 
@@ -41,12 +38,12 @@ My name is Junyang Cai, and I am currently a doctoral student in the Faculty of 
 - **Cai J\***, Zychlinski N. [When AI is not enough: Reducing diagnostic errors with radiologist oversight](https://pubsonline.informs.org/doi/10.1287/serv.2024.0234). ***Service Science***, forthcoming.
 
 - **Cai J\***, Zychlinski N. [Expanding naloxone accessibility: A lifesaver or a risky setback?](https://journals.sagepub.com/doi/abs/10.1177/10591478251405962). ***Production and Operations Management***, 2026, 35(6):2376-2394.
-   - <small>Winner of the 2025 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University, July 10, 2025</small>
+   - <small>Winner of the 2025 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University, July 10, 2025 [[link]](https://mp.weixin.qq.com/s/MerEhvvUDrrAc5ip1ZHPmA)</small>
    - <small>2025 ORSIS Annual Meeting, Tel-Aviv, May 6, 2025</small>
    - <small>Poster exhibition, Faculty Research Day, Technion, May 14, 2025 | [Poster](https://raw.githubusercontent.com/cai-junyang/cai-junyang.github.io/main/poster.pdf)</small>
 
 - Zhou J, **Cai J\***, Pantelous A, Li Z, Li M. [A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives](https://www.sciencedirect.com/science/article/pii/S0377221725003637). ***European Journal of Operational Research***, 2025, 327(2):655-672.
-  - <small>Winner of the 2024 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University, July 11, 2024</small>
+  - <small>Winner of the 2024 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University, July 11, 2024 [[link]](https://mp.weixin.qq.com/s/Xm1ZoeTPIyXQVLHC5rN_Fg))</small>
 
 - **Cai J**, Xu R, Zhou J\*, Gu H. [Dynamic-spread assessment and kink detection in the early mpox outbreak](https://www.sciencedirect.com/science/article/abs/pii/S0307904X2500071X#:~:text=We%20analyze%20the%20mpox%20and%20COVID-19%20outbreaks%20in,decline%20phase%20earlier%20than%20COVID-19%2C%20despite%20weaker%20interventions.). ***Applied Mathematical Modelling***, 2025, 143:115996. 
 

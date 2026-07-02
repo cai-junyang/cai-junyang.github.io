@@ -43,7 +43,7 @@ My name is Junyang Cai, and I am currently a doctoral student in the Faculty of 
    - <small>Poster exhibition, Faculty Research Day, Technion, May 14, 2025 | [Poster](https://raw.githubusercontent.com/cai-junyang/cai-junyang.github.io/main/poster.pdf)</small>
 
 - Zhou J, **Cai J\***, Pantelous A, Li Z, Li M. [A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives](https://www.sciencedirect.com/science/article/pii/S0377221725003637). ***European Journal of Operational Research***, 2025, 327(2):655-672.
-  - <small>Winner of the 2024 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University, July 11, 2024 [[link]](https://mp.weixin.qq.com/s/Xm1ZoeTPIyXQVLHC5rN_Fg))</small>
+  - <small>Winner of the 2024 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University, July 11, 2024 [[link]](https://mp.weixin.qq.com/s/Xm1ZoeTPIyXQVLHC5rN_Fg)</small>
 
 - **Cai J**, Xu R, Zhou J\*, Gu H. [Dynamic-spread assessment and kink detection in the early mpox outbreak](https://www.sciencedirect.com/science/article/abs/pii/S0307904X2500071X#:~:text=We%20analyze%20the%20mpox%20and%20COVID-19%20outbreaks%20in,decline%20phase%20earlier%20than%20COVID-19%2C%20despite%20weaker%20interventions.). ***Applied Mathematical Modelling***, 2025, 143:115996. 
 

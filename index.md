@@ -16,7 +16,6 @@ Email: junyang.cai@campus.technion.ac.il<br>
 
 - [Brief Introduction](#brief-introduction)
 - [News](#news)
-- [Working Papers](#working-papers)
 - [Published Papers](#published-papers)
 
 

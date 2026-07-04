@@ -20,12 +20,16 @@ Email: junyang.cai@campus.technion.ac.il<br>
 
 
 ## Brief Introduction
-My name is Junyang Cai, and I am currently a doctoral student in the Faculty of Data and Decision Sciences at the *Technion*. My advisor is Prof [Noa Zychlinski](https://noazy.net.technion.ac.il/). My research direction is operations management in healthcare.
+My name is Junyang Cai, and I am currently a doctoral student in the Faculty of Data and Decision Sciences at the *Technion*. My advisor is Prof [Noa Zychlinski](https://noazy.net.technion.ac.il/).
+
+I am interested in operations management and operations research in healthcare because they use quantitative mathematical tools, such as queueing theory and stochastic modeling, to improve efficiency, access, and quality of care under limited resources and uncertainty.
 
 ## News
 - I passed my doctoral qualifying examination on August 20, 2025.
 
 - My paper *Expanding naloxone accessibility: A lifesaver or a risky setback?* won the Excellent Paper Award of the 2025 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University on July 10, 2025.
+
+- I began my PhD program in the Faculty of Data and Decision Sciences at the Technion – Israel Institute of Technology on September 1, 2024.
 
 - My paper *A decision-making framework for supporting an equitable global vaccine distribution under humanitarian perspectives* won the Excellent Paper Award of the 2024 Doctoral Student Forum of Antai College of Economics and Management, Shanghai Jiao Tong University on July 11, 2024. The work of this paper corresponds to my master's thesis *Greater disaster triggered by inequity: Equitable vaccine distribution under humanitarian perspectives*.
 
